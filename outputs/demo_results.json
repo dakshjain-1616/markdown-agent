@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "timestamp": "2026-03-27T10:00:00",
+    "backend": "mock",
+    "version": "1.1.0"
+  },
+  "plan": {
+    "goal": "Create a Python Developer Best-Practices Guide for 2024",
+    "tasks_total": 4,
+    "tasks_completed": 4,
+    "tasks": [
+      {"text": "Summarise PEP 8 style guidelines", "completed": true},
+      {"text": "List top testing best practices with pytest", "completed": true},
+      {"text": "Recommend essential developer tooling (uv, ruff, pyright)", "completed": true},
+      {"text": "Provide a quick-start project checklist", "completed": true}
+    ]
+  },
+  "memory": {
+    "sessions_after_run": 1,
+    "state": {
+      "last_run": "2026-03-27T10:00:00",
+      "last_goal": "Create a Python Developer Best-Practices Guide for 2024",
+      "total_sessions": "1",
+      "status": "completed"
+    }
+  },
+  "output": {
+    "file": "outputs/demo_output.md",
+    "char_count": 1308,
+    "line_count": 44
+  },
+  "files": {
+    "plan": "outputs/demo_plan.md",
+    "memory": "outputs/demo_memory.md",
+    "output": "outputs/demo_output.md"
+  }
+}
